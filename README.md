@@ -5,7 +5,7 @@ For the purpose of this challenge we have been exploring the correlation between
 ## Machine Learning Models
 We have used Decision Forest Regression and Linear Regression to create a model comparison between sentiment and count based models.
 
-![Sentiment & Count Model Comparasion](Images/Sentiment & Count Model Comparasion.png)
+![Sentiment & Count Model Comparasion](UCLDataScienceChallenge/Images/Sentiment & Count Model Comparasion.png)
 
 ## Notebooks
 - **Comparing news sentiment and stock price (all - microsoft).ipynb** - 
