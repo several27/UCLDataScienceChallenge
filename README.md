@@ -2,9 +2,12 @@
 
 For the purpose of this challenge we have been exploring the correlation between news articles and prices. 
 
-## File structure
+## Machine Learning Models
+We have used Decision Forest Regression and Linear Regression to create a model comparison between sentiment and count based models.
 
-### Notebooks 
+![Sentiment & Count Model Comparasion](Images/Sentiment & Count Model Comparasion.png)
+
+## Notebooks
 - **Comparing news sentiment and stock price (all - microsoft).ipynb** - 
 - **Events and stock price correlation.ipynb** - 
 - **Microsoft Enquity.ipynb** - 
